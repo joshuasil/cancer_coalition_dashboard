@@ -1,3 +1,5 @@
+#use this command in render gunicorn app:server
+
 import pandas as pd
 import numpy as np
 import statistics as stat
